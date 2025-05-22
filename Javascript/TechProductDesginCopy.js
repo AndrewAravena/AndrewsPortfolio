@@ -1,3 +1,13 @@
+const images_chan_phys = [
+  "resources/physicaltechnologyproductchandelierwork/crucibleview.jpg",
+  "resources/physicaltechnologyproductchandelierwork/exhaustview.jpg",
+  "resources/physicaltechnologyproductchandelierwork/fullviewcrucibleinfurnace.jpg",
+  "resources/physicaltechnologyproductchandelierwork/fullviewfurnace.jpg",
+  "resources/physicaltechnologyproductchandelierwork/moldsandinset.jpg",
+  "resources/physicaltechnologyproductchandelierwork/moldtest.jpg",
+  "resources/physicaltechnologyproductchandelierwork/sideview.jpg",
+  "resources/physicaltechnologyproductchandelierwork/sideviewtoplid.jpg",
+];
 const images_chan_fusion = [
   "resources/chandiddy/chain.jpg",
   "resources/chandiddy/ChainConnecttionchandiddy1.jpg",
@@ -7,16 +17,6 @@ const images_chan_fusion = [
   "resources/chandiddy/chandiddyligthcloseuporientation.jpg",
   "resources/chandiddy/chandiddyligthview.jpg",
   "resources/chandiddy/halfsectionofthechandiddylier.jpg",
-];
-const images_chan_phys = [
-  "resources/chandiddyphysproj/20250413_094842.jpg",
-  "resources/chandiddyphysproj/20250413_094847.jpg",
-  "resources/chandiddyphysproj/20250413_095147.jpg",
-  "resources/chandiddyphysproj/20250501_083243.jpg",
-  "resources/chandiddyphysproj/20250501_083248.jpg",
-  "resources/chandiddyphysproj/20250503_194435.jpg",
-  "resources/chandiddyphysproj/20250503_194438.jpg",
-  "resources/chandiddyphysproj/20250503_194445.jpg",
 ];
 
 class Carousel {

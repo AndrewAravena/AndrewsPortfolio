@@ -2,7 +2,7 @@ import os
 
 base_dir = os.path.abspath(".")
 
-os.chdir("resources/chandiddyphysproj")
+os.chdir("resources/physicaltechnologyproductchandelierwork")
 
 images = []
 
