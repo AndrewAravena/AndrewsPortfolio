@@ -1,0 +1,28 @@
+
+
+ul{
+    color: white;
+    text-align: left;
+    font-size: larger;
+    font-weight: bolder;
+}
+.section-1{
+    height: 900px;
+    width: 700px;
+    background-color: rgba(90, 90, 90, 0.1);
+    color: white;
+    text-align: left;
+    display: block;
+    align-items: center;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 45px;
+    font-size: x-large;
+    padding-top: 20px;
+}
+.centre {
+    margin: auto;
+    width: 37%;
+    padding: 10px;
+}

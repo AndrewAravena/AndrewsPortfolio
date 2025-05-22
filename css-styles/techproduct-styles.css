@@ -1,0 +1,123 @@
+.images {
+    max-width: 800px;
+    max-height: 505px;
+
+
+}
+
+.carousel-container {
+    justify-content: center;
+    font-weight: bolder;
+    color: white;
+    display: grid;
+    grid-template-columns: 50px 800px auto auto;
+    margin-top: 10px;
+    background-color: rgb(37, 37, 37);
+    border-radius: 20px;
+    border-right: 20px;
+    margin-right: 10px;
+    padding: auto;
+
+
+}
+
+.left,
+.right {
+    background-image: none;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.right {
+    right: 0;
+}
+
+.info {
+    color: white;
+    display: block;
+    margin: auto;
+
+
+
+}
+
+.infocontainer {
+    color: white;
+    display: block;
+    background-color: rgb(37, 37, 37);
+    height: 600px;
+    width: 400px;
+    margin-left: auto;
+    border-radius: 45px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: large;
+    margin-top: 210px;
+
+}
+
+.mastercontainer {
+    display: inline-flex;
+
+
+}
+
+.yearcontainer {
+    margin-top: 30px;
+    display: inline-flex;
+    font-size: larger;
+}
+
+.yeartextcontainer {
+    display: block;
+    color: white;
+    font-size: x-large;
+
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.titleheadercontainer {
+
+
+    display: flexbox;
+    color: white;
+    padding: auto;
+    justify-content: center;
+
+}
+
+.videocontainer {
+    margin-top: 150px;
+    border-radius: 45px;
+    justify-content: center;
+    display: block;
+
+
+}
+
+.fusioncontainer {}
+
+.fusionmastercontainer {
+    margin: auto;
+    display: inline-flex;
+    margin-bottom: 300px;
+
+
+}
+
+.textcontainer {
+    margin-top: 10px;
+    color: white;
+    height: 500px;
+    width: 310px;
+    background-color: rgb(37, 37, 37);
+    border-radius: 45px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: large;
+    margin-right: 30px;
+}
