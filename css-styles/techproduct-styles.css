@@ -65,7 +65,7 @@
     margin-top: 30px;
     display: block;
     font-size: larger;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .yeartextcontainer {
@@ -121,4 +121,7 @@
     padding-right: 5px;
     font-size: large;
     margin-right: 30px;
+}
+.bottom{
+    margin-bottom: 150px;
 }

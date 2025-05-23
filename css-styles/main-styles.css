@@ -9,6 +9,7 @@ html{
     font-family: 'Fira Sans', sans-serif;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    margin-bottom: 50px;
 }
 
 .container {
