@@ -18,17 +18,18 @@
 }
 .centre{
     height: 200px;
-    width: 700px;
+    width: 550px;
     background-color: rgb(37, 37, 37);
     color: white;
     text-align: left;
     display: block;
     align-items: center;
     padding: 3px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
     border-radius: 45px;
     font-size: x-large;
     padding-top: 20px;
     margin: auto;
+    justify-content: center;
 }
