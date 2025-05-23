@@ -16,3 +16,19 @@
     display: block;
     text-align: center;
 }
+.centre{
+    height: 200px;
+    width: 700px;
+    background-color: rgb(37, 37, 37);
+    color: white;
+    text-align: left;
+    display: block;
+    align-items: center;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 45px;
+    font-size: x-large;
+    padding-top: 20px;
+    margin: auto;
+}

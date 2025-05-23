@@ -44,13 +44,13 @@
     color: white;
     display: block;
     background-color: rgb(37, 37, 37);
-    height: 600px;
-    width: 400px;
+    height: 650px;
+    width: 500px;
     margin-left: auto;
     border-radius: 45px;
     padding-left: 20px;
     padding-right: 20px;
-    font-size: large;
+    font-size: medium;
     margin-top: 210px;
 
 }
@@ -63,7 +63,7 @@
 
 .yearcontainer {
     margin-top: 30px;
-    display: inline-flex;
+    display: block;
     font-size: larger;
     margin-bottom: 20px;
 }
@@ -76,7 +76,7 @@
     padding-left: 400px;
     padding-right: 400px;
     padding-top: 20px;
-    margin-top: 50px;
+    margin-top: 60px;
     margin-bottom: 50px;
 }
 
